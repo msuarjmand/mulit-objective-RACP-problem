@@ -1,6 +1,6 @@
 # mulit-objective-RACP-problem
 
-# Titile: Three Developed Meta-heuristic Algorithms to Solve RACP Minimizing Makespan and Total Resource Costs Simultaneously
+# Paper title: Three Developed Meta-heuristic Algorithms to Solve RACP Minimizing Makespan and Total Resource Costs Simultaneously
 
 The code repository for "Three Developed Meta-heuristic Algorithms to Solve RACP Minimizing Makespan and Total Resource Costs Simultaneously" [paper](https://aie.ut.ac.ir/article_63178.html) (Journal of Advances inIndustrial Engineering). If you use any content of this repo for your work, please cite the following bib entry:
   
