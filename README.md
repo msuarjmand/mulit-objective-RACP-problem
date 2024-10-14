@@ -20,3 +20,20 @@ In this paper, a bi-objective resource availability cost problem (RACP) is studi
 
 
 Please refer to our [paper](https://aie.ut.ac.ir/article_63178.html) for detailed values.
+
+## Meta-heuristic Algorithms
+
+The following algorithms are employed to solve the problem:
+
+- [NSGA-II](https://ieeexplore.ieee.org/document/996017)
+- [NRGA](https://ieeexplore.ieee.org/document/4631093)
+- [MOPSO](https://ieeexplore.ieee.org/document/1004388)
+
+
+
+## Dataset
+We provide the source code on three benchmark datasets including J10, J30, and J120 from PSPLIB which is the standard library for project scheduling problems. Please follow the guidelines in [PSPlib-RCPSP](https://www.om-db.wi.tum.de/psplib/getdata_sm.html).
+
+    
+## Contact 
+If you have any questions, please feel free to contact the author, Masoud Arjmand (m.arjmand@ut.ac.ir). 
