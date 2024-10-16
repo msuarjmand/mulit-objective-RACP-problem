@@ -30,7 +30,7 @@ The following algorithms are employed to solve the problem:
 
 
 ## Dataset
-We provide the source code on three benchmark datasets including J10, J30, and J120 from PSPLIB which is the standard library for project scheduling problems. Please follow the guidelines in [PSPlib-RCPSP](https://www.om-db.wi.tum.de/psplib/getdata_sm.html).
+We provide the source code on three benchmark datasets including J10, J20, J30, J60, J90, and J120 from PSPLIB which is the standard library for project scheduling problems. Please follow the guidelines in [PSPlib-RCPSP](https://www.om-db.wi.tum.de/psplib/getdata_sm.html).
 
     
 ## Contact 
